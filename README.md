@@ -1,6 +1,6 @@
-# The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
+# The Voidrice (Luke Smith <https://github.com/Hackcodepro>'s dotfiles)
 
-These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
+These are the dotfiles deployed by [LARBS](https://github.com/Hackcodepro) and as seen on
 [my YouTube channel](https://youtube.com/c/lukesmithxyz).
 
 - Very useful scripts are in `~/.local/bin/`
@@ -23,9 +23,9 @@ These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
 
 These dotfiles are intended to go with numerous suckless programs I use:
 
-- [dwm](https://github.com/lukesmithxyz/dwm) (window manager)
-- [dwmblocks](https://github.com/lukesmithxyz/dwmblocks) (statusbar)
-- [st](https://github.com/lukesmithxyz/st) (terminal emulator)
+- [dwm](https://github.com/Hackcodepro/dwm) (window manager)
+- [dwmblocks](https://github.com/Hackcodepro/dwmblocks) (statusbar)
+- [st](https://github.com/Hackcodepro/st) (terminal emulator)
 
 I also recommend trying out
 [mutt-wizard](https://github.com/lukesmithxyz/mutt-wizard), which additionally
@@ -35,14 +35,16 @@ as well.
 
 ## Install these dotfiles and all dependencies
 
-Use [LARBS](https://larbs.xyz) to autoinstall everything:
+Use [LARBS](https://github.com/Hackcodepro) to autoinstall everything:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+git clone https://github.com/Hackcodepro/LARBS.git
+cd LARBS
+sh larbs.sh
 ```
 
 or clone the repo files directly to your home directory and install the
-[dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv).
+[dependencies](https://raw.githubusercontent.com/Hackcodepro/LARBS/main/progs.csv).
 
 ## Default Desktop Artwork
 
