@@ -28,7 +28,7 @@ These dotfiles are intended to go with numerous suckless programs I use:
 - [st](https://github.com/Hackcodepro/st) (terminal emulator)
 
 I also recommend trying out
-[mutt-wizard](https://github.com/lukesmithxyz/mutt-wizard), which additionally
+[mutt-wizard](), which additionally
 works with this setup. It gives you an easy-to-install terminal-based email
 client regardless of your email provider. It is integrated into these dotfiles
 as well.
