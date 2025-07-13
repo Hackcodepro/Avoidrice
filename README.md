@@ -1,4 +1,4 @@
-# The Voidrice (Luke Smith <https://github.com/Hackcodepro>'s dotfiles)
+# The Aoidrice (A.j Baloch <https://github.com/Hackcodepro>'s dotfiles)
 
 These are the dotfiles deployed by [LARBS](https://github.com/Hackcodepro) and as seen on
 [my YouTube channel](https://youtube.com/c/lukesmithxyz).
